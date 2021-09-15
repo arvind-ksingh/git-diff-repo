@@ -1,9 +1,11 @@
 my name is arvind
 i live in lucknow
-i am learning java full stack developer
+i am learning java full stack developer and lovable
 
 
 
 
 
 
+
+this is world and i am living in 
